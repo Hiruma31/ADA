@@ -26,13 +26,13 @@ Easy
 - Say something
 - Ask time
 - Translation (Google Translate)
-- Calculation
+- Calculation <br/>
 Medium
 - Meteo
-- Lights (hardware need)
+- Lights (hardware need) <br/>
 Hard
 - Music (+TV/Mediacenter/XBMC server)
-- eMail
+- eMail <br/>
 
 Improvements:
 ---
