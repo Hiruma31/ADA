@@ -22,17 +22,17 @@ Test GUI (fullscreen, printed output, voice animation)
 
 Module Ideas:
 ---
-Easy
-- Say something
-- Ask time
-- Translation (Google Translate)
-- Calculation <br/>
-Medium
-- Meteo
-- Lights (hardware need) <br/>
-Hard
-- Music (+TV/Mediacenter/XBMC server)
-- eMail <br/>
+- Easy
+  - Say something
+  - Ask time
+  - Translation (Google Translate)
+  - Calculation <br/>
+- Medium
+  - Meteo
+  - Lights (hardware need) <br/>
+- Hard
+  - Music (+TV/Mediacenter/XBMC server)
+  - eMail <br/>
 
 Improvements:
 ---
