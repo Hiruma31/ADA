@@ -36,8 +36,9 @@ Module Ideas:
 
 Improvements:
 ---
-- Use PyGSR for the GoogleAPI access ?
+- Use PyGSR for the GoogleAPI access
 - GUI: Tkinter (+Tksnack for sound display)
+- Create Client/Server interface to control TV/XBMC through HDMI (CEC)
 - AIML: Based on Pandorabots ?
-- Support for X10 infrastructure
+- Support for W-Zave/X10 infrastructure
 - Voice: Modify before playing with Tksnack ?
