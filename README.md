@@ -3,6 +3,8 @@ ADA
 
 Autonomous Digital Assistant
 
+Suspended until an alternative to Google Speech is found (first one closed, second one need an API key and seems limited to 50 requests a day)
+
 General Idea :
 ---
 The general idea is to make a vocal assistant taking advantage of all of API and service now available out there.
